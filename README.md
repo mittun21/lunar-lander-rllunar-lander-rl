@@ -59,6 +59,6 @@ a single PyTorch thread and early stopping cut training time from [X] to [X] min
 - [ ] Record a video of the landing
 
 ## Credits
-
+Project idea from a guide by Hari (@harixganesh).
 Built with [Gymnasium](https://gymnasium.farama.org) and
 [Stable-Baselines3](https://stable-baselines3.readthedocs.io).
